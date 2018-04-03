@@ -1,8 +1,9 @@
 # Contributing
+This is an experiment to see how ratification of the constitution would work if it was pull request based.
 
-Much like the real US Constitution, this repo's README can only be changed by an amendment process. However, in this case, amendments are pull requests. Let's see what happens during this experience. 
+This repo's README can only be changed by an amendment process i.e. pull requests. 
 
-To get the process starte;
+To get the process started:
 
 1. Open a Pull Request with your amendment name in the title and your changes to the README. For example: "Equal Rights Amendment". You can leave off the next amendment # (i.e. 28) from your title if you want
 2. Use the pull request to present your case and discuss / debate the amendment.
